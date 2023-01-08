@@ -3,8 +3,8 @@ A nifty Password Generator to quickly generate random passwords for use all thro
 
 ## Screenshots
 
-![Alt text](assets/1.png "screen")
+![Alt text](assets/1.png)
 
 <br>
 
-![Alt text](assets/2.png "screen")
+![Alt text](assets/2.png)
