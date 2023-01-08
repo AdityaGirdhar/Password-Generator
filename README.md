@@ -1,2 +1,10 @@
-# Password-Generator
+# Password Generator in JavaScript
 A nifty Password Generator to quickly generate random passwords for use all throughout the internet. Written in JavaScript and HTML/CSS
+
+## Screenshots
+
+![Alt text](assets/1.png "screen")
+
+<br>
+
+![Alt text](assets/2.png "screen")
